@@ -4,7 +4,9 @@ A CMake toolchain file for iOS (+ Catalyst), watchOS, tvOS and macOS development
 
 [![catalyst-jobs](https://github.com/leetal/ios-cmake/actions/workflows/catalyst.yml/badge.svg)](https://github.com/leetal/ios-cmake/actions/workflows/catalyst.yml) &nbsp; [![combined-jobs](https://github.com/leetal/ios-cmake/actions/workflows/combined.yml/badge.svg)](https://github.com/leetal/ios-cmake/actions/workflows/combined.yml) &nbsp; [![ios-jobs](https://github.com/leetal/ios-cmake/actions/workflows/ios.yml/badge.svg)](https://github.com/leetal/ios-cmake/actions/workflows/ios.yml)
 
-[![macos-jobs](https://github.com/leetal/ios-cmake/actions/workflows/macos.yml/badge.svg)](https://github.com/leetal/ios-cmake/actions/workflows/macos.yml) &nbsp; [![tvos-jobs](https://github.com/leetal/ios-cmake/actions/workflows/tvos.yml/badge.svg)](https://github.com/leetal/ios-cmake/actions/workflows/tvos.yml) &nbsp; [![watchos-jobs](https://github.com/leetal/ios-cmake/actions/workflows/watchos.yml/badge.svg)](https://github.com/leetal/ios-cmake/actions/workflows/watchos.yml)
+[![macos-jobs](https://github.com/leetal/ios-cmake/actions/workflows/macos.yml/badge.svg)](https://github.com/leetal/ios-cmake/actions/workflows/macos.yml) &nbsp; [![tvos-jobs](https://github.com/leetal/ios-cmake/actions/workflows/tvos.yml/badge.svg)](https://github.com/leetal/ios-cmake/actions/workflows/tvos.yml) &nbsp; [![watchos-jobs](https://github.com/leetal/ios-cmake/actions/workflows/watchos.yml/badge.svg)](https://github.com/leetal/ios-cmake/actions/workflows/watchos.yml) 
+
+[![visionos-jobs](https://github.com/leetal/ios-cmake/actions/workflows/visionos.yml/badge.svg)](https://github.com/leetal/ios-cmake/actions/workflows/visionos.yml)
 
 ## Platform flag options (-DPLATFORM=_flag_)
 
